@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b3f2f82a3805cb689e32238c95cb291a433b4323">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.1.1_a0576a3eef8498740aa6c2812ebb45ffd98db74b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_14d3c13aedd32588c0879810a9d9cb3116ecd24f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.7.3/e250c11c1329c7b6b62442a9743befad78be553c/jackson-annotations-2.7.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e250c11c1329c7b6b62442a9743befad78be553c">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.7.3_7b3bd8e8d75d52059b919291a159d531230a7d66/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_690f58ed759438c2d922b61e2b5df4be2f2e714a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="af386702c882f86ab6986a477e36f8ec9fdedb89">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1171bdf4229c93386d79ba1c476e51622aa22141/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_7c34def88881e57ab171a38044420c123ca5a347/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7063e79256984407da655e50ad9e5f27c1c6d7cc">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4250b615f015c8f5746da99d7780faf85aa625a1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_b5e2e2a25150b977972599befe68a2e945a998de/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/.gradle/caches/modules-2/files-2.1/org.parceler/parceler-api/1.1.5/23114b381811fd7c8e7aeeef4b845453c4a16a1d/parceler-api-1.1.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23114b381811fd7c8e7aeeef4b845453c4a16a1d">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/parceler-api-1.1.5_9ffa8fe7f55c671217968f66ff509b418fc5ffe8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.7.3/1499b854ae9f370409792db5af1b552dc7d9682f/jackson-core-2.7.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1499b854ae9f370409792db5af1b552dc7d9682f">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.7.3_38eee59a3ce08f23df7b6cc852a4b14fccf667b4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.1.1_2799c054f9ff939bf52e55ae66a13f091c20f182/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_74c911c55e2b3bbe3ca3239c780174f194559a40/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_3c9cf34d727b4d70f3aa5431135fdeddccde7ede/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_36f4ad1f8cfd47a6c3131161bee82cf0859e9312/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_8f4225e3dc03109b5c485f640bc83590fdf126f2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.1.0_8285b014f48eb0750fdba91b2d08a1e22fd06c58/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_e340fdd65775a3d125c06ae856a3135bc4712545/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cbdf1602ce622f3445dc7513237f30930c6e4a5a">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.afollestad.material-dialogs-core-0.8.6.2_1413baff24dcef62aa15b8ef1b448a63665e7919/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_8ceb11459ea108b6553e2b43655b6d7f5ec64a55/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.7/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1478a113f04bf0b679037b4f6bd88bd1837b96a3">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.zhanghai.android.materialprogressbar-library-1.1.7_084dddfb37d86dee7f1417d3257f51bcedd7d33d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.1.0/d6854f42bfb4098d3d2358d93201307b9f1cc95d/butterknife-annotations-8.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.1.0_63441f3ccfaf68d80d2b92cf9c6c7b040df5545c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anatoliy/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.7.3/f12e6cd05cbaecd74d16e685d45b627732939e42/jackson-databind-2.7.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f12e6cd05cbaecd74d16e685d45b627732939e42">
+        <dex dex="/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.7.3_5723ac731631f7a24a18a9bd3e18379dfc0e9123/classes.dex" />
+    </item>
+
+</items>

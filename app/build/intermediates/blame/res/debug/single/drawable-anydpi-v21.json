@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/C:\\Users\\anato\\Desktop\\Android_Test_Anatoliy_Adamitskiy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\md_nav_back.xml",
+        "source": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/C:\\Users\\anato\\Desktop\\Android_Test_Anatoliy_Adamitskiy\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.2\\res\\drawable-anydpi-v21\\md_nav_back.xml"
+    },
+    {
+        "merged": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/md_nav_back.xml",
+        "source": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/drawable-anydpi-v21/md_nav_back.xml"
+    }
+]

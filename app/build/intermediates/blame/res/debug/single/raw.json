@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/C:\\Users\\anato\\Desktop\\Android_Test_Anatoliy_Adamitskiy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\offers.json",
+        "source": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/C:\\Users\\anato\\Desktop\\Android_Test_Anatoliy_Adamitskiy\\app\\src\\main\\res\\raw\\offers.json"
+    },
+    {
+        "merged": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/res/merged/debug/raw/offers.json",
+        "source": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/src/main/res/raw/offers.json"
+    },
+    {
+        "merged": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/res/merged/debug/raw/store_locations.json",
+        "source": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/src/main/res/raw/store_locations.json"
+    },
+    {
+        "merged": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/C:\\Users\\anato\\Desktop\\Android_Test_Anatoliy_Adamitskiy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\store_locations.json",
+        "source": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/C:\\Users\\anato\\Desktop\\Android_Test_Anatoliy_Adamitskiy\\app\\src\\main\\res\\raw\\store_locations.json"
+    },
+    {
+        "merged": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/C:\\Users\\anato\\Desktop\\Android_Test_Anatoliy_Adamitskiy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\retailers.json",
+        "source": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/C:\\Users\\anato\\Desktop\\Android_Test_Anatoliy_Adamitskiy\\app\\src\\main\\res\\raw\\retailers.json"
+    },
+    {
+        "merged": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/res/merged/debug/raw/retailers.json",
+        "source": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/src/main/res/raw/retailers.json"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress.xml",
+        "source": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout-v14/md_stub_progress.xml"
+    },
+    {
+        "merged": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/C:\\Users\\anato\\Desktop\\Android_Test_Anatoliy_Adamitskiy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate.xml",
+        "source": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/C:\\Users\\anato\\Desktop\\Android_Test_Anatoliy_Adamitskiy\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.2\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/C:\\Users\\anato\\Desktop\\Android_Test_Anatoliy_Adamitskiy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/C:\\Users\\anato\\Desktop\\Android_Test_Anatoliy_Adamitskiy\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.2\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/C:\\Users\\anato\\Desktop\\Android_Test_Anatoliy_Adamitskiy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress.xml",
+        "source": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/C:\\Users\\anato\\Desktop\\Android_Test_Anatoliy_Adamitskiy\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.2\\res\\layout-v14\\md_stub_progress.xml"
+    },
+    {
+        "merged": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate.xml",
+        "source": "/Users/Anatoliy/Desktop/Android_Test_Anatoliy_Adamitskiy/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/layout-v14/md_stub_progress_indeterminate.xml"
+    }
+]
